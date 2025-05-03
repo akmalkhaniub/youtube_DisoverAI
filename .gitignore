@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Environment variables and secrets
+.env
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+# Other
+.idea/
+*.bak
+*.swp
+*.swo
+
+# Ignore generated files
+list_gemini_models.pyc

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "case9e3599",
+    "data": [
+      {
+        "query": "hi",
+        "expected_tool_use": [],
+        "expected_intermediate_agent_responses": [],
+        "reference": "Hi Alex, welcome back to Cymbal Home & Garden! I see you've been a customer since 2022. How are your flowers and vegetables growing?\n"
+      },
+      {
+        "query": "Yeah, so I'm a bit confused. I just bought some...uh...plants or flowers that I wanted to put in the backyard. They just say \"sun loving annuals\" on them. I totally spaced on picking up potting soil so I'm placing an order for pickup now. The problem is, I'm not sure if the potting soil and fertilizer I picked out are the right ones.",
+        "expected_tool_use": [],
+        "expected_intermediate_agent_responses": [],
+        "reference": "I understand, Alex. Choosing the right soil and fertilizer can be tricky! To make sure we get you the best match for your new sun-loving annuals, would you be willing to share a quick video of the plants? That way, I can give you the most accurate recommendations.\n"
+      },
+      {
+        "query": "Sure, how do I do that?",
+        "expected_tool_use": [],
+        "expected_intermediate_agent_responses": [],
+        "reference": "Great! I can send a link to your phone number that will allow you to share live video from your phone. It will allow me to see the plants so I can recommend the proper soil and fertilizer. Is that OK?\n"
+      },
+      {
+        "query": "Okay, I clicked the link...can you see this?",
+        "expected_tool_use": [],
+        "expected_intermediate_agent_responses": [],
+        "reference": "Yes, I can see your plants now. Thanks! Those look like petunias, very popular and hardy. Given that you're in Las Vegas, you'll want to make sure they get enough water and protection from the harshest afternoon sun. Let me check your current cart and then I can make some recommendations for soil and fertilizer that will work best for petunias in your area.\n"
+      }
+    ],
+    "initial_session": {
+      "state": {},
+      "app_name": "customer_service",
+      "user_id": "user"
+    }
+  }
+]

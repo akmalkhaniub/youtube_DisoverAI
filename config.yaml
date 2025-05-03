@@ -1,0 +1,11 @@
+keywords:
+  - "AI tutorials"
+  - "Machine learning"
+  - "Data science"
+languages:
+  - "en"  # English
+  - "es"  # Spanish
+region_codes:
+  - "US"
+  - "IN"
+data_retention_days: 30
